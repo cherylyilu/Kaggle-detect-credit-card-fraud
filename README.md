@@ -1,4 +1,5 @@
-# Kaggle open datasets/ Exploring ML model and data-based business insights
+# Kaggle open datasets
+Exploring ML model and data-based business insights
 # Detect Credit Card Fraud
 * Logistic regression  
 * Random Forest
