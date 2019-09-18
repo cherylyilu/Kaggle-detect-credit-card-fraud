@@ -1,10 +1,9 @@
-# Kaggle open datasets
-Exploring ML model and data-based business insights
 # Detect Credit Card Fraud
+Exploring ML model and data-based business insights
 * Logistic regression  
 * Random Forest
 classifier to the problem of detecting credit card fraud.
-##
+## Kaggle open datasets
 The data is from: https://www.kaggle.com/mlg-ulb/creditcardfraud
 Note that there are 28 anonymized variables in the data set and the charge amount. The variable "Class" is 0 for no fraud and 1 if the charge was fraudulent.
 ## Procedure
